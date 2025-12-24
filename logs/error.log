@@ -1,0 +1,7 @@
+[Wed Dec 24 04:16:00.037188 2025] [ssl:warn] [pid 25352:tid 212] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Dec 24 04:16:00.038186 2025] [mpm_winnt:notice] [pid 25352:tid 212] AH00455: Apache/2.4.65 (Win64) OpenSSL/3.5.1 configured -- resuming normal operations
+[Wed Dec 24 04:16:00.038186 2025] [mpm_winnt:notice] [pid 25352:tid 212] AH00456: Apache Lounge VS17 Server built: Jul 24 2025 14:32:29
+[Wed Dec 24 04:16:00.038186 2025] [core:notice] [pid 25352:tid 212] AH00094: Command line: 'C:\\Apache24\\bin\\httpd -d C:/Apache24 -f C:/Users/usdth/Documents/VSC/campus/conf/httpd.conf'
+[Wed Dec 24 04:16:00.042548 2025] [mpm_winnt:notice] [pid 25352:tid 212] AH00418: Parent: Created child process 10364
+[Wed Dec 24 04:16:00.273411 2025] [ssl:warn] [pid 10364:tid 428] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Dec 24 04:16:00.275411 2025] [mpm_winnt:notice] [pid 10364:tid 428] AH00354: Child: Starting 64 worker threads.

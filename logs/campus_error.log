@@ -1,0 +1,8 @@
+[Wed Dec 24 04:16:00.021030 2025] [ssl:warn] [pid 25352:tid 212] AH01906: staff.campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Dec 24 04:16:00.022030 2025] [ssl:warn] [pid 25352:tid 212] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Dec 24 04:16:00.037188 2025] [ssl:warn] [pid 25352:tid 212] AH01906: staff.campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Dec 24 04:16:00.038186 2025] [ssl:warn] [pid 25352:tid 212] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Dec 24 04:16:00.258474 2025] [ssl:warn] [pid 10364:tid 428] AH01906: staff.campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Dec 24 04:16:00.259552 2025] [ssl:warn] [pid 10364:tid 428] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Dec 24 04:16:00.273411 2025] [ssl:warn] [pid 10364:tid 428] AH01906: staff.campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Dec 24 04:16:00.274410 2025] [ssl:warn] [pid 10364:tid 428] AH01906: campus.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
